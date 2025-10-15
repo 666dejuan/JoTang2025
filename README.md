@@ -1,1 +1,9 @@
-You only need to view the two MD files in the folder named task0.
+我来自2025级1204班
+选择方向是机器学习
+以下是对相关任务的说明
+task0
+只需要看两个md文件即可，一个是对机器学习相关概念的理解，另一个是环境配置的流程
+task1
+概念理解请看core_of_NN.md，代码实践相关问题回答请看instruction_for_pyfile.md,代码请看sklearn_moons.py
+另外，部分理解放在了py文件的注释里了，还有对代码实践的最后一个问题不太明白，不清楚何谓“三者”
+
