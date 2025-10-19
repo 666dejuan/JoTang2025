@@ -1,0 +1,1 @@
+# 直接看install_wsl.md就好啦:relaxed::kissing_heart:
