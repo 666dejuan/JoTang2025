@@ -1,0 +1,7 @@
+C:/Users/ASUS/Desktop/jotang/demo/MakeFile/build/CMakeFiles/hello.out.dir
+C:/Users/ASUS/Desktop/jotang/demo/MakeFile/build/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/jotang/demo/MakeFile/build/CMakeFiles/rebuild_cache.dir
+C:/Users/ASUS/Desktop/jotang/demo/MakeFile/build/CMakeFiles/list_install_components.dir
+C:/Users/ASUS/Desktop/jotang/demo/MakeFile/build/CMakeFiles/install.dir
+C:/Users/ASUS/Desktop/jotang/demo/MakeFile/build/CMakeFiles/install/local.dir
+C:/Users/ASUS/Desktop/jotang/demo/MakeFile/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,5 @@
+# ninja log v7
+3	86	7802508477775739	CMakeFiles/hello.out.dir/hello.c.obj	3fb2cacd334882ea
+15	89	7802508477898778	CMakeFiles/hello.out.dir/lib/add.c.obj	af4f8e6707178520
+26	97	7802508478015578	CMakeFiles/hello.out.dir/lib/mu.c.obj	8a99384f4a46646
+97	209	7802508478730870	hello.out.exe	91bb3e0b20c66443
