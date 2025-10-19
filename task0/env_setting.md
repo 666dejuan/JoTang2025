@@ -7,7 +7,7 @@ https://code.visualstudio.com/
 ## 二、安装 Anaconda 
 * 在中国大学镜像源地址下载anaconda
 https://mirrors.bfsu.edu.cn/anaconda/archive/
-* 安装此版本![anaconda_version](../task0/anaconda_version.png)
+* 安装此版本![anaconda_version](../task0/photos/anaconda_version.png)
 其基础环境（base环境）下的Python为3.9版本
 * 在**D盘**下创建一个文件夹名为Anaconda，并将安装的Anaconda放在这个文件夹里
 * **编辑系统环境变量**，在弹出的“系统属性”窗口中点击“环境变量”，再在弹出的“环境变量”窗口中选择path路径，并点击编辑。通过右侧的“新建”按钮，可新建环境变量的路径，将
@@ -27,7 +27,7 @@ conda create -prefix= 安装路径\环境名 python=3.9
 #进入名为“环境名”的虚拟环境
 conda activate 环境名
 ```
-![env](../task0/show_env.png)
+![env](../task0/photos/show_env.png)
 ## 四、安装CUDA
 在官网上下载
 https://developer.nvidia.com/cuda-toolkit-archive
@@ -39,7 +39,7 @@ https://developer.nvidia.com/cuda-toolkit-archive
 conda install pytorch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0 pytorch-cuda=12.1 -c pytorch -c nvidia
 ```
 安装好后查看一下torch版本
-![version_of_torch](../task0/torch_version.png)
+![version_of_torch](../task0/photos/torch_version.png)
 ## 六、安装常用工具包
 使用中科大的镜像源安装numpy Pandas和Matplotlib
 通过指令```conda activate DL```进入到DL虚拟环境
